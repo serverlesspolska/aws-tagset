@@ -24,7 +24,7 @@ const params =
 {
   Bucket: bucket.Name,
   Tagging: {
-    TagSet: tagSet.toAws() // covert object to AWS TagSet structure
+    TagSet: tagSet.toAws() // convert object to AWS TagSet structure
   }
 }
 
