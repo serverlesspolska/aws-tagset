@@ -7,6 +7,11 @@ npm i aws-tag-set
 ```
 
 # How to use
+Import
+```JavaScript
+import { TagSet } from 'aws-tag-set';
+```
+and use
 ```JavaScript
 // Sample: get existing tags from an S3 bucket 
 const client = new S3Client({ region });
