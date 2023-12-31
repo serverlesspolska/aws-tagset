@@ -1,0 +1,21 @@
+{
+  "name": "aws-tag-set",
+  "version": "1.0.0",
+  "author": "Pawel Zubkiewicz",
+  "description": "Wrapper for AWS resource Tags",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serverlesspolska/aws-tag-set.git"
+  },
+  "keywords": ["aws", "tag", "tags"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serverlesspolska/aws-tag-set/issues"
+  },
+  "homepage": "https://github.com/serverlesspolska/aws-tag-set#readme"
+}
