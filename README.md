@@ -3,13 +3,13 @@ Simple wrapper for AWS resource Tags
 
 # How to install 
 ```
-npm i aws-tag-set
+npm i aws-tagset
 ```
 
 # How to use
 Import
 ```JavaScript
-import { TagSet } from 'aws-tag-set';
+import { TagSet } from 'aws-tagset';
 ```
 and use
 ```JavaScript
